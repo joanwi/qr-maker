@@ -25,8 +25,7 @@ export default function Hero() {
               Generate your QR Code
             </NavLink>
             <NavLink
-              target="_blank"
-              href="https://github.com/Nutlope/qrGPT"
+              href="#"
               className="text-gray-700 border hover:bg-gray-50"
               scroll={false}
             >
